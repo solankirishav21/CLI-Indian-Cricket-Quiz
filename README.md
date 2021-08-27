@@ -1,2 +1,2 @@
-# CLI-Indian-Cricket-Quiz
-My first JavaScript Project
+# Web Develomenrt Projects
+
