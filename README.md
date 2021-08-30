@@ -1,2 +1,2 @@
-# A Node.js cli game 
+# A js cli game 
 
